@@ -15,7 +15,7 @@ ITPath adalah platform forum IT yang dikembangkan menggunakan Django, Vue.js, da
 
 ### Persyaratan
 
-- Python 3.x
+- Python 3.10
 - Node.js
 - MongoDB
 
@@ -23,7 +23,7 @@ ITPath adalah platform forum IT yang dikembangkan menggunakan Django, Vue.js, da
 
 1. **Klon Proyek:**
     ```bash
-    git clone https://github.com/your-username/ITPath.git
+    git clone https://github.com/thearchanist/ITPath.git
     cd ITPath
     ```
 
