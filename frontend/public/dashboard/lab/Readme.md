@@ -1,9 +1,9 @@
-# Sirkel Dashboard
+# Sircle Dashboard
 ## Deskripsi Website
-Selamat datang di dasbor Sirkel! Dokumen ini menjelaskan berbagai komponen dalam dasbor, data yang ditampilkan di setiap bagian, dan fungsionalitas yang tersedia.
+Selamat datang di dasbor Sircle! Dokumen ini menjelaskan berbagai komponen dalam dasbor, data yang ditampilkan di setiap bagian, dan fungsionalitas yang tersedia.
 
 ## Deskripsi Website
-Sirkel berfungsi sebagai pusat bagi para penggemar ilmu komputer untuk terlibat dalam diskusi, berbagi pandangan, dan bertukar pengetahuan melalui catatan pribadi yang dapat dipublikasikan. Platform ini membantu menciptakan lingkungan belajar kolaboratif di mana pengguna dapat menjelajahi berbagai topik, memberikan wawasan mereka, dan mendukung perjalanan belajar satu sama lain.
+Sircle berfungsi sebagai pusat bagi para penggemar ilmu komputer untuk terlibat dalam diskusi, berbagi pandangan, dan bertukar pengetahuan melalui catatan pribadi yang dapat dipublikasikan. Platform ini membantu menciptakan lingkungan belajar kolaboratif di mana pengguna dapat menjelajahi berbagai topik, memberikan wawasan mereka, dan mendukung perjalanan belajar satu sama lain.
 
 ## Komponen
 ### Right Sidebar
@@ -43,8 +43,8 @@ Setiap postingan mencakup:
 - **Profil**: Akses ke pengaturan profil pengguna.
 - **Pencarian**: Fungsionalitas pencarian untuk menemukan konten tertentu.
 - **Notifikasi**: Pemberitahuan untuk aktivitas atau pembaruan baru.
-- **Logo**: Logo Sirkel untuk identitas merek.
+- **Logo**: Logo Sircle untuk identitas merek.
 - **Nama Halaman**: Menunjukkan halaman atau bagian saat ini dalam website.
 
 # Kesimpulan
-Dasbor Sirkel memberikan pengguna dengan platform komprehensif untuk menjelajahi, berbagi, dan terlibat dalam diskusi tentang berbagai topik ilmu komputer. Baik Anda mencari untuk belajar, berkontribusi, atau terhubung dengan individu sejenis, Sirkel menawarkan komunitas yang dinamis dan pengalaman belajar yang kaya.
+Dasbor Sircle memberikan pengguna dengan platform komprehensif untuk menjelajahi, berbagi, dan terlibat dalam diskusi tentang berbagai topik ilmu komputer. Baik Anda mencari untuk belajar, berkontribusi, atau terhubung dengan individu sejenis, Sircle menawarkan komunitas yang dinamis dan pengalaman belajar yang kaya.
