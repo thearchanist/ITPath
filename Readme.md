@@ -1,6 +1,6 @@
-# ITPath
+# Sircle
 
-ITPath adalah platform forum IT yang dikembangkan menggunakan Django, Vue.js, dan MongoDB. Platform ini dirancang untuk memfasilitasi diskusi, berbagi pengetahuan, dan kolaborasi di antara para profesional dan penggemar IT.
+Sircle adalah platform forum IT yang dikembangkan menggunakan Django, Vue.js, dan MongoDB. Platform ini dirancang untuk memfasilitasi diskusi, berbagi pengetahuan, dan kolaborasi di antara para profesional dan penggemar IT.
 
 ## Fitur Utama
 
@@ -23,8 +23,8 @@ ITPath adalah platform forum IT yang dikembangkan menggunakan Django, Vue.js, da
 
 1. **Klon Proyek:**
     ```bash
-    git clone https://github.com/thearchanist/ITPath.git
-    cd ITPath
+    git clone https://github.com/thearchanist/Sircle.git
+    cd Sircle
     ```
 
 2. **Setup Backend:**
